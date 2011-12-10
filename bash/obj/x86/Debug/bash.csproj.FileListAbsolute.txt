@@ -1,0 +1,12 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\obj\x86\Debug\bash.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\obj\x86\Debug\bash.bashGUI.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\obj\x86\Debug\bash.alert.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\obj\x86\Debug\bash.shell.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\obj\x86\Debug\bash.about.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\bin\Debug\BASHE.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\bin\Debug\BASHE.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\obj\x86\Debug\BASHE.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\bash\bash\obj\x86\Debug\BASHE.pdb
